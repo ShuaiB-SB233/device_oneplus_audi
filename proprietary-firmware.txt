@@ -1,28 +1,28 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Ace 3V (PJF110_16.0.5.1001(CN01)).
+## are from OnePlus Ace 3V (PJF110_16.0.2.401(CN01)).
 
-abl.img;AB
-aop.img;AB
-aop_config.img;AB
-bluetooth.img;AB
-cpucp.img;AB
-cpucp_dtb.img;AB
-devcfg.img;AB
-dsp.img;AB
-engineering_cdt.img;AB
-featenabler.img;AB
-hyp.img;AB
-imagefv.img;AB
-keymaster.img;AB
-modem.img;AB
-oplus_sec.img;AB
-oplusstanvbk.img;AB
-qupfw.img;AB
-shrm.img;AB
-splash.img;AB
-tz.img;AB
-uefi.img;AB
-uefisecapp.img;AB
-xbl.img;AB
-xbl_config.img;AB
-xbl_ramdump.img;AB
+abl.img;AB|32acec0b52822e2391374b8a995c6e766e14fa0c
+aop.img;AB|8531004718ec59cc46e0e5e9f11632382a97f2b0
+aop_config.img;AB|b22a6c290b95869f866c674e6974745df93c8759
+bluetooth.img;AB|e9afba96ec921e3be967ae30937ea0f725b66542
+cpucp.img;AB|92cb2e44a326f90aa5aa69ab6674e5d1829d660b
+cpucp_dtb.img;AB|66760502272b5d1375cb628d0e628db75dfa4d46
+devcfg.img;AB|7b0c0826b1c2f10d5e53c1a2930eab9b8183f0c7
+dsp.img;AB|7e81146e07bb4120616a084cc932dc4836420d29
+engineering_cdt.img;AB|a57a9d8d79df59ef7ce010f0125d8057035de244
+featenabler.img;AB|382ce9f1dc0f6483c2180e15f571dbdb9e8d4ec0
+hyp.img;AB|910e095d0f5447513e802b80059b8e6196751bb6
+imagefv.img;AB|52239179a58f2ad29736351a26d14e521c8ac51f
+keymaster.img;AB|cb65e98bdf11b26e82a39c3e572e0c4242e5c077
+modem.img;AB|656a2627c5ed9be6c656483fca18078867324ad7
+oplus_sec.img;AB|fb7d5b89feac2ef035e98e945d5f094e8d1ed95c
+oplusstanvbk.img;AB|995db2ef1545d49883d135b06c9b4acec1400a79
+qupfw.img;AB|09b5e88e49a3979a87fa405d7d10aee69f7684a5
+shrm.img;AB|15a52229a7baa4ac242668b49e83667c4fd3a92f
+splash.img;AB|fc5da5e9d4d388820d09510b3ed2ecb895fef5fe
+tz.img;AB|f4f8bcd752d3e4db9bd8f5cecddb4947ea88b688
+uefi.img;AB|6a36df6c910959a296872049334980846a74b635
+uefisecapp.img;AB|84d8f45c2978d4e6b14a0f9c1dd808b47f28002c
+xbl.img;AB|886a654a80552e5744d5509070bcd75067397b43
+xbl_config.img;AB|d30820dd01b8831b2efe4275d43fddaa6cc83abb
+xbl_ramdump.img;AB|1adb2fa497e47de5751e93a07edf6a5d8fd08f0d
